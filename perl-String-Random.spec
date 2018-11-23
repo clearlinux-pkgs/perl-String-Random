@@ -4,7 +4,7 @@
 #
 Name     : perl-String-Random
 Version  : 0.30
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/String-Random-0.30.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/String-Random-0.30.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libs/libstring-random-perl/libstring-random-perl_0.29-1.debian.tar.xz
