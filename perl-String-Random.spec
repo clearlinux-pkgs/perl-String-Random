@@ -4,7 +4,7 @@
 #
 Name     : perl-String-Random
 Version  : 0.31
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/String-Random-0.31.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/String-Random-0.31.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libs/libstring-random-perl/libstring-random-perl_0.29-1.debian.tar.xz
@@ -96,4 +96,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.32.1/String/Random.pm
+/usr/lib/perl5/vendor_perl/5.34.0/String/Random.pm
